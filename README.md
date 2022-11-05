@@ -8,4 +8,4 @@
 **Usage of command:**
 `prime [upper limit]`
 
-The command will return primes in the range of 2...`[upper_limit]`
+The command will return prime numbers in the range of 2...`[upper_limit]`
